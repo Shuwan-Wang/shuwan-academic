@@ -7,7 +7,14 @@ interests: []
 social: []
 organizations: []
 education:
-  courses: []
+  courses:
+    - course: PhD in Statistics
+      institution: University of Missouri
+    - course: MA in Statistics
+      institution: University of Missouri
+      year: 2015
+    - course: BS in Mathematics
+      institution: Xiamen Univerisity
 email: ""
 superuser: true
 highlight_name: true
